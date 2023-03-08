@@ -80,9 +80,9 @@ d. **Compile a team list.**
 
 a. Now let's envision our *Best Case Scenario*. **It is important to create team language for learning, aligning team decisions when there are roadblocks to consensus. Start by picturing Veteran mental health care in this team as you experience it now – the interactions/communications within the team in and out of team meetings; the key people you rely on outside the team; the information and data you use to coordinate care plans, and the feelings you associate with it.**
 
-b. Now picture the team learning over the next 6 months in a ***best case* scenario**, where things are happening in the team the way that you would ideally like them to. This is your *dream team* situation.
+b. Now picture the team learning over the next 6 months in a ***Best Case Scenario***, where things are happening in the team the way that you would ideally like them to. This is your *dream team* situation.
 
-### 3. Create a Personal Vision for this 'best-case' scenario. (5 minutes)
+### 3. Create a Personal Vision for this **Best Case Scenario***. (5 minutes)
 
 - Think about your Personal Vision for your team:
 
@@ -124,7 +124,7 @@ a. **We'll hold this vision up as a reminder of our shared goals to orient our l
   
 [<img src = "https://raw.githubusercontent.com/lzim/teampsd/master/resources/illustrations/data_ui_sim_ui.png">](#DontLink)
 
-### 6. Select Team Lead (5 minutes)
+### 6. Select Team Lead. (5 minutes)
 
 - To wrap up, let's decide on a Team Lead. The role of the Team Lead is to:
 
@@ -138,6 +138,65 @@ a. **We'll hold this vision up as a reminder of our shared goals to orient our l
    - Having basic computer knowledge (some Excel experience is good);
    - Attention to detail; and
    - Commitment to process improvement and the use of data to improve care.
+
+---
+
+### 7. Celebrate Team accomplishments. (5 minutes)
+
+- It's important to celebrate milestones and accomplishments.
+
+- Today you can celebrate:
+1. Brainstorming good learning experiences within your Team. 
+2. Having a *dream team* vision stemming from your *Best Case Scenario*.
+3. Distilling your Team Vision.
+4. Selecting your Team Lead. 
+
+- There are numerous ways to have a small celebration. Ideas include:
+  - High-fiving;
+    - If you are unsure of what high-fiving is, read [this article](https://en.wikipedia.org/wiki/High_five "What is a high five?").
+  - Make plans to gather after hours for a potluck meal; and 
+  - **Smiling** at each other. 
+
+---
+# Heading 1
+
+## Heading 2
+
+### 8. YAH, Yet Another Heading. (? minutes)
+
+The learner needs to show that she has learned how to: 
+1. Link to illustrations and graphics. 
+
+  - An example of a linked illustration - MTL Components:
+<img src="https://github.com/lzim/teampsd/blob/master/resources/illustrations/mtl_components.png" alt="MTL Components">
+
+  - An example of a linked graphic - improvement notes photo:
+<img src="https://github.com/lzim/teampsd/blob/master/resources/photos/qual/improvement_1of1_2017_10_17.jpeg" alt="Improvement Notes Photo">
+
+2. Create ordered and unordered lists.
+  - This.
+  - List.
+  - Is.
+  - Unordered.
+    1. This. 
+    2. List.
+    3. Is.
+        - Do not forget apples.
+          1. Full of carbohydrates.
+          2. Something else.
+  - Just because.
+  - End of this crazy list.
+
+3. Make a table.
+
+    | This             | That      |
+    |------------------|-----------|
+    |ketchup           |ranch      |
+    |boxers            |briefs     |
+    |**see you later** |goodbye    |
+    |hello             |**howdy**  |
+
+---
 
 **That's it for _Modeling to Learn_ how to align our team vision! Next is our Done/Do review**
 
